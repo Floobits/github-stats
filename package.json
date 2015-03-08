@@ -11,7 +11,8 @@
     "nedb": "1.1.x",
     "request": "2.x",
     "lodash": "3.x",
-    "parse-link-header": "0.2.x"
+    "parse-link-header": "0.2.x",
+    "floorine": "0.3.x"
   },
   "engines": {
     "iojs": ">=1.0"
